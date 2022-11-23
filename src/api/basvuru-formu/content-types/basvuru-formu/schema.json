@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "basvuru_formus",
+  "info": {
+    "singularName": "basvuru-formu",
+    "pluralName": "basvuru-formus",
+    "displayName": "Başvuru Formu"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "adsoyad": {
+      "type": "string"
+    },
+    "telefon": {
+      "type": "string"
+    },
+    "ikamet": {
+      "type": "text"
+    },
+    "cinsiyet": {
+      "type": "string"
+    },
+    "egitim": {
+      "type": "string"
+    },
+    "medeni": {
+      "type": "string"
+    },
+    "tecrube": {
+      "type": "string"
+    },
+    "yabancidil": {
+      "type": "string"
+    },
+    "hastalik": {
+      "type": "text"
+    },
+    "diger": {
+      "type": "text"
+    }
+  }
+}

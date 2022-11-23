@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "iletisims",
+  "info": {
+    "singularName": "iletisim",
+    "pluralName": "iletisims",
+    "displayName": "İletişim",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "mesaj": {
+      "type": "text"
+    },
+    "telefon": {
+      "type": "string"
+    },
+    "isim": {
+      "type": "string"
+    }
+  }
+}

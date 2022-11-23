@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "generals",
+  "info": {
+    "singularName": "general",
+    "pluralName": "generals",
+    "displayName": "Genel",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "telefon": {
+      "type": "string"
+    },
+    "acilis": {
+      "type": "string"
+    },
+    "kapanis": {
+      "type": "string"
+    }
+  }
+}
